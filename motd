@@ -1,0 +1,20 @@
+
+  [34m  
+    _____  __     __  ___ ____  
+   / ___/ / /    /  |/  // __ \ 
+   \__ \ / /    / /|_/ // /_/ / 
+  ___/ // /___ / /  / // ____/  
+ /____//_____//_/  /_//_/           
+ 
+ Simple Linux + Apache + MySQL/MariaDB + PHP 
+ Made by SLMP - https://SLMP.SH With love
+ Contact: hi@slmp.sh 
+ Command list:
+ slmp add Create a new Apache virtual host
+ slmp del Delete Apache virtual host
+ slmp list List all Apache virtual hosts
+ slmp wp install wordpress
+ slmp version show slmp version
+[37m
+[30m
+[0m
